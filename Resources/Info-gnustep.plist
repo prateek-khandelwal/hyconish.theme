@@ -13,6 +13,30 @@ Buttons - self created";
     GSThemeIcon = "Thematic.png";
     GSThemeLicense = "CC-By-Attribution";
     GSThemeTiles = {
+	GSScrollerHorizontalKnob = {
+	    FileName = "GSScrollerHorizontalKnob.png";
+	    FillStyle = Scale;
+	    HorizontalDivision = 1;
+	    VerticalDivision = 1;
+	};
+	GSScrollerHorizontalSlot = {
+	    FileName = "GSScrollerHorizontalSlot.png";
+	    FillStyle = Scale;
+	    HorizontalDivision = 1;
+	    VerticalDivision = 1;
+	};
+	GSScrollerVerticalKnob = {
+	    FileName = "GSScrollerVerticalKnob.png";
+	    FillStyle = Scale;
+	    HorizontalDivision = 1;
+	    VerticalDivision = 1;
+	};
+	GSScrollerVerticalSlot = {
+	    FileName = "GSScrollerVerticalSlot.png";
+	    FillStyle = Scale;
+	    HorizontalDivision = 1;
+	    VerticalDivision = 1;
+	};
 	NSButton = {
 	    FileName = "NSButton.png";
 	    FillStyle = Scale;
