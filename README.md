@@ -13,4 +13,4 @@ Icons (particularly device and settings related icons) are extracted from Ivy Ic
 while the folders icons belongs to the hycons Icon pack by http://gomezhyuuga.deviantart.com/art/Hycons-snap-14-07-11-169638293
 
 
-This theme is licensed under Creative Commons Attributions Share-Alike license [http://gomezhyuuga.deviantart.com/art/Hycons-snap-14-07-11-169638293]
+This theme is licensed under Creative Commons Attributions Share-Alike license [CC BY-SA, http://creativecommons.org/licenses/by-sa/4.0/]
