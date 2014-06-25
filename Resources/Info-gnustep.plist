@@ -34,8 +34,8 @@ Buttons - self created";
 	GSScrollerVerticalSlot = {
 	    FileName = "GSScrollerVerticalSlot.png";
 	    FillStyle = Scale;
-	    HorizontalDivision = 1;
-	    VerticalDivision = 1;
+	    HorizontalDivision = 3;
+	    VerticalDivision = 3;
 	};
 	NSButton = {
 	    FileName = "NSButton.png";

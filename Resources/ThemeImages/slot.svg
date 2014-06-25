@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="13"
@@ -19,7 +20,36 @@
    inkscape:export-xdpi="168.79121"
    inkscape:export-ydpi="168.79121">
   <defs
-     id="defs3395" />
+     id="defs3395">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboard"
+       id="pattern5203"
+       patternTransform="matrix(2.0069926,0.00704184,-0.0069926,1.9929582,0,0)" />
+    <pattern
+       inkscape:stockid="Checkerboard"
+       id="Checkerboard"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="2"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4546"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="fill:black;stroke:none" />
+      <rect
+         id="rect4548"
+         height="1"
+         width="1"
+         y="1"
+         x="1"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,14 +58,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="8"
+     inkscape:cx="0.9074255"
      inkscape:cy="8"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1364"
-     inkscape:window-height="717"
+     inkscape:window-height="716"
      inkscape:window-x="1"
      inkscape:window-y="28"
      inkscape:window-maximized="1">
@@ -55,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,12 +95,12 @@
      inkscape:groupmode="layer"
      transform="translate(0,-3)">
     <rect
-       style="fill:#0088aa;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect3403"
+       style="fill:#00a5cf;fill-opacity:0.56;fill-rule:nonzero;stroke:none"
+       id="rect5205"
        width="13"
        height="13"
        x="0"
-       y="3"
-       ry="1.625" />
+       y="0"
+       transform="translate(0,3)" />
   </g>
 </svg>

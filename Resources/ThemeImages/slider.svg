@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="19"
+   height="14"
+   id="svg2988"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="slider.svg"
+   inkscape:export-filename="/home/prateek/GNUstep/Library/Themes/hyconish.theme/Resources/ThemeImages/common_SliderHoriz.png"
+   inkscape:export-xdpi="168.79121"
+   inkscape:export-ydpi="168.79121">
+  <defs
+     id="defs2990" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.696216"
+     inkscape:cx="0.66088208"
+     inkscape:cy="3.6779177"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1364"
+     inkscape:window-height="716"
+     inkscape:window-x="1"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3015"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-2)">
+    <g
+       id="g3000"
+       inkscape:export-filename="/home/prateek/GNUstep/Library/Themes/hyconish.theme/Resources/ThemeImages/common_SliderHoriz.png"
+       inkscape:export-xdpi="168.79121"
+       inkscape:export-ydpi="168.79121"
+       transform="scale(0.79817105,1)"
+       style="fill:#00a5cf;fill-opacity:0.56078384">
+      <rect
+         inkscape:export-ydpi="168.79121"
+         inkscape:export-xdpi="168.79121"
+         inkscape:export-filename="/home/prateek/GNUstep/Library/Themes/hyconish.theme/Resources/ThemeImages/common_SliderVert.png"
+         y="2"
+         x="0"
+         height="14"
+         width="13"
+         id="rect2994"
+         style="fill:#00a5cf;fill-opacity:0.56078384;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:export-ydpi="168.79121"
+         inkscape:export-xdpi="168.79121"
+         inkscape:export-filename="/home/prateek/GNUstep/Library/Themes/hyconish.theme/Resources/ThemeImages/common_SliderVert.png"
+         inkscape:transform-center-y="0.012579046"
+         inkscape:transform-center-x="-1.7966546"
+         transform="matrix(0.9978019,-0.07562331,0.06631637,1.1183727,-3.3627286,10.499737)"
+         d="M 16,6.0000001 16.803847,-6.4641015 27.196152,0.46410139 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="3.2059965"
+         sodipodi:arg1="2.1587989"
+         sodipodi:r2="3.6055512"
+         sodipodi:r1="7.2111025"
+         sodipodi:cy="0"
+         sodipodi:cx="20"
+         sodipodi:sides="3"
+         id="path2998"
+         style="fill:#00a5cf;fill-opacity:0.56078384;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
